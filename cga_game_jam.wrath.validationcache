@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1492952731" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1730447357" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1732128864" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Attenuations\Default Work Unit.wwu" DateLow="1493157933" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Audio Devices\Default Work Unit.wwu" DateLow="1492847654" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\cga_game_jam.wproj" DateLow="1492757701" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Control Surface Sessions\Default Work Unit.wwu" DateLow="1492822768" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Conversion Settings\Default Work Unit.wwu" DateLow="1492907691" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1730922772" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1493303042" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Default Work Unit.wwu" DateLow="1493212987" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory Auro Headphone.wwu" DateLow="2105448076" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory Effects.wwu" DateLow="1732609693" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Box Modeler.wwu" DateLow="2007629463" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Delay.wwu" DateLow="2005267337" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Dynamics.wwu" DateLow="2012188546" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Filters.wwu" DateLow="2005937939" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="2015206256" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="2011187655" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="2005082170" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Effects\Factory McDSP Effects.wwu" DateLow="2155712476" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Events\Default Work Unit.wwu" DateLow="1493077848" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Game Parameters\Default Work Unit.wwu" DateLow="1493107875" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1732564268" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1493258027" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1493137911" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Mixing Sessions\Default Work Unit.wwu" DateLow="1492877660" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Modulators\Default Work Unit.wwu" DateLow="1492932713" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Presets\Default Work Unit.wwu" DateLow="1493182960" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Queries\Default Work Unit.wwu" DateLow="1493017794" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Queries\Factory Queries.wwu" DateLow="1730722605" DateHigh="30584129"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\SoundBanks\Default Work Unit.wwu" DateLow="1492997772" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1493238137" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\States\Default Work Unit.wwu" DateLow="1492972771" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Switches\Default Work Unit.wwu" DateLow="1493278216" DateHigh="30598176"/>
+	<ValidationCacheItem File="F:\_Dev\Gamedev\cga_game_jam_wwise\cga_game_jam\Triggers\Default Work Unit.wwu" DateLow="1493042821" DateHigh="30598176"/>
+</ValidationCache>
